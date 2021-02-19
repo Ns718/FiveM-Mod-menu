@@ -5,7 +5,7 @@
 
 [Menu base] 
 Menu base: LynxRevolution [BETA]
-Made fully functional by MalossiHosting
+Made fully functional by LooT
 
 [Problems]
 Multiple functions no longer worked, these problems have already been solved
@@ -18,11 +18,6 @@ Multiple functions no longer worked, these problems have already been solved
 - Some little menu buggs
 - Updated execute function
 
-[Edited]
-Changed the discord name inside the menu
 
 [Copyright] ©
 All rights go to the official creator of this menu base
-
-[Discord]
-https://discord.io/MalossiLuaMenus+
