@@ -5,7 +5,7 @@
 
 [Menu base] 
 Menu base: LynxRevolution [BETA]
-Made fully functional by LooT
+Made fully functional by LooT and Alexander
 
 [Problems]
 Multiple functions no longer worked, these problems have already been solved
